@@ -1,0 +1,31 @@
+{
+  "name": "tone-js-playground",
+  "version": "1.0.0",
+  "description": "tone js playground",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack -p",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShayanJavadi/tone-js-playground.git"
+  },
+  "keywords": [
+    "tone",
+    "js",
+    "pi",
+    "creative",
+    "coding"
+  ],
+  "author": "Shayan Javadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShayanJavadi/tone-js-playground/issues"
+  },
+  "homepage": "https://github.com/ShayanJavadi/tone-js-playground#readme",
+  "devDependencies": {
+    "tone": "^0.10.0",
+    "webpack": "^2.6.1"
+  }
+}
